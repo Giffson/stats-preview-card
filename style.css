@@ -97,7 +97,7 @@ span {
 }
 
 /* media query */
-@media (max-width: 375px) {
+@media (max-width: 450px) {
   .container {
     display: flex;
     flex-wrap: wrap-reverse;
